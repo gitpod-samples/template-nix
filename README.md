@@ -20,4 +20,6 @@ To get started with nix on Gitpod, copy the contents of this foler to your own p
 
 ## Notes & caveats
 
+When the environment first starts up use the `direnv allow` command to activate the environment.
+
 See also: [An opinionated guide for developers getting things done using the Nix ecosystem](https://nix.dev/).
