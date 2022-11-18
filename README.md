@@ -1,6 +1,6 @@
 # A Nix template on Gitpod
 
-This is a [nix](https://nixos.org/manual/nix/stable/) template configured for ephemeral nix based development environments on [Gitpod](https://www.gitpod.io/).
+This is a [nix](https://nixos.org/manual/nix/stable/) template configured for ephemeral nix-based cloud development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 
