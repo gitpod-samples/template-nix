@@ -1,7 +1,8 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - init: >
+  - init: |
+      direnv allow
       mkdir -p /home/gitpod/.config/nix &&
       echo 'sandbox = false' >> /home/gitpod/.config/nix/nix.conf
 
